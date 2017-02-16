@@ -29,3 +29,5 @@ text4
 text5
 
 text 6
+
+adding som text in commit mode
